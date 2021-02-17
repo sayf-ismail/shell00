@@ -8,3 +8,8 @@ Credentials cache: API:D716C702-BB25-420F-8F1C-81438638373C
 
   Issued                Expires               Principal
 Feb 16 20:52:04 2021  Feb 17 06:52:00 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
+Credentials cache: API:C851AA9B-6A04-460F-9B97-5EE1B610CFB5
+        Principal: stun-ism@42KL.EDU.MY
+
+  Issued                Expires               Principal
+Feb 17 09:18:35 2021  Feb 17 19:18:30 2021  krbtgt/42KL.EDU.MY@42KL.EDU.MY
